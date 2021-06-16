@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\55119\\Desktop\\Backend - MVC\\EplayersMVC\\EplayersMVC.csproj",
+      "projectUniqueName": "C:\\Users\\55119\\Desktop\\BackendMVC\\EplayersMVC\\EplayersMVC.csproj",
       "projectName": "EplayersMVC",
-      "projectPath": "C:\\Users\\55119\\Desktop\\Backend - MVC\\EplayersMVC\\EplayersMVC.csproj",
+      "projectPath": "C:\\Users\\55119\\Desktop\\BackendMVC\\EplayersMVC\\EplayersMVC.csproj",
       "packagesPath": "C:\\Users\\55119\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\55119\\Desktop\\Backend - MVC\\EplayersMVC\\obj\\",
+      "outputPath": "C:\\Users\\55119\\Desktop\\BackendMVC\\EplayersMVC\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\55119\\AppData\\Roaming\\NuGet\\NuGet.Config"
